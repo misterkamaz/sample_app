@@ -21,7 +21,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* pS : this app my first step in study proces 
 
 
 Please feel free to use a different markup language if you do not plan to run
